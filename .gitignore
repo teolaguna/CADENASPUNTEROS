@@ -1,0 +1,9 @@
+# Config VS Code
+.vscode/
+# Ejecutables
+*.exe
+*.out
+*.o
+# Temporales
+*.tmp
+*.log

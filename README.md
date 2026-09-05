@@ -1,2 +1,1 @@
-# CADENASPUNTEROS
-act 4
+Act 4 de programacion
